@@ -1,0 +1,1 @@
+{\n  "name": "alex-ai-assistant",\n  "version": "1.0.0",\n  "main": "main.js",\n  "scripts": {\n    "electron-start": "electron .",\n    "react-start": "react-scripts start",\n    "build": "react-scripts build"\n  },\n  "dependencies": {\n    "axios": "^0.21.1",\n    "electron": "^11.0.0"\n  }\n}
